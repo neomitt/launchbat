@@ -27,6 +27,8 @@ Batch File Creator is a simple desktop application written in C# that allows use
 
 3. Click the "Create" button to generate the batch file.
 
+__It is important to know that the paths must be without quotes and in English.__
+
 ## Screenshots
 
 ![Application Screenshot](https://github.com/neomitt/launchbat/blob/main/screen.png)
