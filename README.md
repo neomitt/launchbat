@@ -43,7 +43,8 @@ Batch File Creator is a simple desktop application written in C# that allows use
 
 ## Download
 
-[![Download EXE](https://img.shields.io/badge/Download-EXE-brightgreen)](https://github.com/neomitt/repo/releases/download/v1.0/BatchFileCreator.exe)
+[![Download EXE](https://img.shields.io/badge/Download-EXE-brightgreen)](https://github.com/neomitt/launchbat/releases/download/v1.0/BatchFileCreator.exe)
+
 
 
 ## License
