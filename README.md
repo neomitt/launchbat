@@ -39,11 +39,9 @@ Batch File Creator is a simple desktop application written in C# that allows use
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
-## Download .exe file
+# Download
 
-## Download
-
-[![Download EXE](https://img.shields.io/badge/Download-EXE-brightgreen)](https://github.com/neomitt/launchbat/releases/download/v1.0.0/BatchFileCreator.exe)
+[![Download .exe file](https://img.shields.io/badge/Download-EXE-brightgreen)](https://github.com/neomitt/launchbat/releases/download/v1.0.0/BatchFileCreator.exe)
 
 
 
