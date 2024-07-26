@@ -29,7 +29,7 @@ Batch File Creator is a simple desktop application written in C# that allows use
 
 ## Screenshots
 
-![Application Screenshot](path_to_screenshot)
+![Application Screenshot](https://github.com/neomitt/launchbat/blob/main/screen.png)
 
 ## Contributing
 
